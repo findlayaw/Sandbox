@@ -1,0 +1,1 @@
+'''Findlay Arthur White'''
